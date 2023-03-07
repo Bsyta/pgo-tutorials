@@ -1,0 +1,30 @@
+Klasy:
+Person
+Adress
+Student 
+Proffesor
+Atrybuty i typy danych:
+Name - string	
+Surname - string
+Age- int
+Introduce yourself- string
+Street- string
+City- string
+State-string
+Postal Code-int
+Country-string
+Validate- boolean
+Output as Label- string
+Student Number- int
+Average mark - int
+Is eligible to enroll- boolean
+get seminars taken- boolean
+salary- int
+
+Metody i typy danych:
+
+Is eligible to enroll- boolean
+get seminars taken- boolean
+introduce yourself- string
+validate- boolean
+output as label- string
